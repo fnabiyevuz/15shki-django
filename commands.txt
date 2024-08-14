@@ -1,2 +1,3 @@
 docker build -t shki15:v1 .
 sudo docker run -p 8000:8000 shki15:v1
+RUN rm /usr/bin -> docker compose ichiga yoziladi. containerni ichiga kirib bo'lmaydi. docker exec orqali

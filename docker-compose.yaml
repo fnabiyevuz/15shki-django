@@ -1,0 +1,7 @@
+version: "3.2"
+
+services:
+  15shki-django:
+    image: fnabiyev/15shki-django:v1
+    ports:
+    - 8000:8000
